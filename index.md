@@ -16,17 +16,13 @@ td a { padding: 1ex 1em; background-color: #ddd; }
 #lessons a { color: white; }
 </style>
 
-# AWS – Applications web et sécurité
+# Stanislas Maturin BADO
 
-|[Informations IATIC4](#info-isty) | [Informations M1 Info](#info-uvsq)
 
 <div class="info" id="info-isty">
-## Informations IATIC4
+## Paris Saclay UVSQ
 
-**Chargé de cours :** Luca De Feo <http://defeo.lu/>.  
-**Chargé de TD :** Sébastien Besnier.
-
-**Cours + TD :** Lundi 13h45 - 18h30
+**Contact :** Luca De Feo <mailto:maturinbado@gmail.com>.  
 
 {::nomarkdown}
 {% include plan.html plan=site.data.planIsty %}
